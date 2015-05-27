@@ -36,3 +36,6 @@ Added to github on 02-01-2012 initially to fix a simple display bug for initial
 quads over 127.  The goal is to allow for collaborative tweaking and development
 of this useful tool.
 
+As of 05-27-2015, I have ported the tool to Go as well. Mostly as a learning
+exercise. Build with 'go build cidr-convert.go' to prevent the compiler from
+getting confused.
